@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crazy-panda-example1/static/css/main.6861cf57.chunk.css",
+    "main.js": "/crazy-panda-example1/static/js/main.5832f2df.chunk.js",
+    "main.js.map": "/crazy-panda-example1/static/js/main.5832f2df.chunk.js.map",
+    "runtime-main.js": "/crazy-panda-example1/static/js/runtime-main.725b8ae5.js",
+    "runtime-main.js.map": "/crazy-panda-example1/static/js/runtime-main.725b8ae5.js.map",
+    "static/js/2.973a2d71.chunk.js": "/crazy-panda-example1/static/js/2.973a2d71.chunk.js",
+    "static/js/2.973a2d71.chunk.js.map": "/crazy-panda-example1/static/js/2.973a2d71.chunk.js.map",
+    "static/js/3.b8ff5c86.chunk.js": "/crazy-panda-example1/static/js/3.b8ff5c86.chunk.js",
+    "static/js/3.b8ff5c86.chunk.js.map": "/crazy-panda-example1/static/js/3.b8ff5c86.chunk.js.map",
+    "index.html": "/crazy-panda-example1/index.html",
+    "static/css/main.6861cf57.chunk.css.map": "/crazy-panda-example1/static/css/main.6861cf57.chunk.css.map",
+    "static/js/2.973a2d71.chunk.js.LICENSE.txt": "/crazy-panda-example1/static/js/2.973a2d71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725b8ae5.js",
+    "static/js/2.973a2d71.chunk.js",
+    "static/css/main.6861cf57.chunk.css",
+    "static/js/main.5832f2df.chunk.js"
+  ]
+}
